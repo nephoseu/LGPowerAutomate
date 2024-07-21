@@ -1,3 +1,8 @@
+---
+lab:
+    title: '[Lab 07] Integrate with Microsoft teams to get approvals'
+    module: 'Power Automate'
+---
 # LAB 7 - Integrate with Microsoft teams to get approvals
 
 Prerequisites
