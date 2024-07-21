@@ -1,3 +1,8 @@
+---
+lab:
+    title: '[Lab 02] Create a desktop flow'
+    module: 'Power Automate'
+---
 # LAB 2 - Create a desktop flow
 
     
