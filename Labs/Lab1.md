@@ -1,4 +1,8 @@
-
+---
+lab:
+    title: '[Lab 01] Setting the environment'
+    module: ' Power Automate'
+---
 # LAB 1 - Setting the environment
 
 Prerequisite: Required software on your computer
