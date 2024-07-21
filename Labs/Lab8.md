@@ -1,3 +1,8 @@
+---
+lab:
+    title: '[Lab 08] Create subflows and web automation with Power Automate for desktop'
+    module: 'Power Automate'
+---
 # LAB 8 - Create subflows and web automation with Power Automate for desktop
 
 Prerequisites
