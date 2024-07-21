@@ -30,7 +30,9 @@ You'll complete the following tasks in this lab:
     
 
 
-Task 0: Import the solution
+Task 0:
+-------
+Import the solution
 ===================
 
 ><mark>:information_source:**Note**</mark>
@@ -75,7 +77,9 @@ To import the solution, follow these steps:
 11.  Wait for the solution to be imported.
     
 
-Task 1: Use an Outlook email to trigger a desktop flow and pass input
+Task 1:
+-------
+Use an Outlook email to trigger a desktop flow and pass input
 ========================================================================
 
 

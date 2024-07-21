@@ -43,7 +43,9 @@ Connecting your machine directly to Power Automate and the cloud will allow you 
 
 
 
-Task 0: Import the solution
+Task 0:
+-------
+Import the solution
 ===================
 
 
@@ -67,7 +69,9 @@ Task 0: Import the solution
     
 6.  Select **Import** and then wait for the solution to be imported.
 
-Task 1: Create a cloud flow and a connection
+Task 1:
+-------
+Create a cloud flow and a connection
 ===============================================
 
 >:information_source:**Note**
@@ -185,7 +189,9 @@ After your flow runs successfully, the run detail page will display.
 
 Now the flow is linked to the solution.
 
-Task 2: Monitor the list of machines
+Task 2:
+-------
+Monitor the list of machines
 =======================================
 
 After a machine has been registered to an environment, you can view its details from the Power Automate website. You can also view all other machines that you have access to. To do so, follow these steps:
@@ -240,7 +246,9 @@ After a machine has been registered to an environment, you can view its details 
     
 
 
-Task 3: Create a cloud flow with Describe it to design it
+Task 3:
+-------
+Create a cloud flow with Describe it to design it
 ============================================================
 
 >:information_source:**Note**
@@ -301,7 +309,9 @@ You have now completed the flow!
 
 If you desire, you can continue to test your flow by sending yourself an email with an attachment.
 
-Task 4: Create a work queue
+Task 4:
+-------
+Create a work queue
 ==============================
 
 
@@ -335,7 +345,9 @@ Just as manufacturing assembly lines are designed to decouple different complex 
     ![Screenshot of empty work queue.](images/4-39.png)
     
 
-Task 5: Create the _Work Queue Item Load_ workflow
+Task 5:
+-------
+Create the _Work Queue Item Load_ workflow
 ------------------------------------------------
 
 1.  From within the **Invoice Processing Solution** created in a previous lab, select **\+ New** from the toolbar at the top. Then, select **Automation** and **Desktop Flow** to create a new desktop flow.

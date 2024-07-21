@@ -35,8 +35,9 @@ This lab guides you through the following steps:
 >:information_source:**Note**
 >To complete the labs, you'll need to use a few files. Download the [Lab files](https://github.com/nephoseu/LGPowerAutomate/raw/main/LabData.zip) for use in this lab. Extract the contents of this download to your local computer.
 ----
-
-Task 0: Get Power Apps Developer Plan
+Task 0:
+-------------------
+Get Power Apps Developer Plan
 =============================
 
 
@@ -57,9 +58,11 @@ Task 0: Get Power Apps Developer Plan
 5.  Select the environment name. The new dev environment should display. Select the dev environment.
     
     ![Screenshot of the selected environment.](images/1-03.svg)
-----    
+----   
 
-Task 1: Install the Power Automate for desktop application
+Task 1:
+-------
+Install the Power Automate for desktop application
 ==================================================
 
 Your next task is to install the Power Automate for desktop app.
@@ -156,7 +159,9 @@ Your next task is to install the Power Automate for desktop app.
 
 ----
 
-Task 2: Register your machine
+Task 2:
+-------
+Register your machine
 =====================
 
 
@@ -201,7 +206,9 @@ To register your machine, follow these steps:
 >Users will need an Environment Maker or desktop Flow Machine Owner role permission to register machines. Before registering a machine, make sure that you have the required permissions and that an available environment is present for you to register the new machine in.
 
 
-Task 3: Install the Coffee Shop Contoso invoice app (for lab scenario use)
+Task 3:
+-------
+Install the Coffee Shop Contoso invoice app (for lab scenario use)
 ==================================================================
 
 

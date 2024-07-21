@@ -22,7 +22,9 @@ In this lab, you'll import a solution and learn how to create and use input and 
 
 
 
-Task 0:  Import the solution
+Task 0:
+-------
+Import the solution
 ==============================
 
 
@@ -47,7 +49,9 @@ To import the solution, follow these steps:
     
 6.  Select **Import** and then wait for the solution to import.
 
-Task 1: Use input and output parameters
+Task 1:
+-------
+Use input and output parameters
 ==========================================
 
 

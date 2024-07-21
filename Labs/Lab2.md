@@ -39,8 +39,9 @@ This lab introduces the concept of solutions. Developers use solutions to write,
 
 >:information_source:**Note**
 >To complete the labs, you'll need to use files downloaded in the previous lab.
-
-Task 1: Get familiar with Power Automate for desktop
+Task 1:
+-------
+Get familiar with Power Automate for desktop
 ==============================================================
 
 
@@ -99,8 +100,9 @@ To get more familiar with the Power Automate for desktop app, follow these steps
     
 10.  **Close** out of the Power Automate application.
 
-
-Task 2: Create your first Power Automate desktop flow
+Task 2:
+-------
+Create your first Power Automate desktop flow
 ========================================================
 
 

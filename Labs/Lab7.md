@@ -31,7 +31,9 @@ In this lab, you'll complete the following tasks, which completes the end-to-end
 *   Perform a test of the end-to-end invoice processing cloud flow.
   
 
-Task 0: Import the solution (optional)
+Task 0:
+-------
+Import the solution (optional)
 ==============================
 
 ><mark>:information_source:**Note**</mark>
@@ -100,7 +102,9 @@ To import the solution, follow these steps:
     
 22.  Wait for the solution to import.
     
-Task 1: Use Microsoft Teams to get approvals
+Task 1:
+-------
+Use Microsoft Teams to get approvals
 ===============================================
 
 

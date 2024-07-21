@@ -22,7 +22,9 @@ However, in the previous lab, you didn't use the real data from the invoice file
 
 
 
-Task 0: Import the solution (optional)
+Task 0:
+-------
+Import the solution (optional)
 ==============================
 
 ><mark>:information_source:**Note**</mark>
@@ -81,7 +83,9 @@ To install the solution, follow these steps:
 17.  Wait for the solution to be imported.
     
 
-Task 1: Build and use AI models to enhance user experience in workflows
+Task 1:
+-------
+Build and use AI models to enhance user experience in workflows
 ==========================================================================
 
 In this task, you build and use AI models to enhance user experience in workflows.

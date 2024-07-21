@@ -21,7 +21,9 @@ In previous labs, you created a cloud flow that's triggered to run automatically
 In this lab's scenario, you've learned that Contoso Coffee shop also needs to complete another step after processing a new incoming invoice. They need to record the invoice information into an existing Microsoft Excel file, which other departments use for auditing purposes. Furthermore, if you're working in an international branch in Europe, you're required to convert the invoiced amount from USD to EUR by using a real-time currency conversion rate, and then you'll need to log the converted amount into the Excel file. The Microsoft Power Automate for desktop app can also help you complete this type of task because it can automate against Windows applications and against any website.
 
 
-Task 0: Import the solution (optional)
+Task 0:
+-------
+Import the solution (optional)
 ==============================
 
 ><mark>:information_source:**Note**</mark>
@@ -116,12 +118,10 @@ To import the solution, follow these steps.
     
 33.  Select **Save** and then wait for the flow to be saved.
     
-Task 1: Build a Power Automate for desktop subflow to write notes into Excel
+Task 1:
+-------
+Build a Power Automate for desktop subflow to write notes into Excel
 ===============================================================================
-
-Completed
-
-*   15 minutes
 
 In this task, you create a process within Power Automate for desktop that writes the values of variables that you created earlier into a Microsoft Excel file. Then, you use GPT from Azure OpenAI Service to automatically generate a summary of the invoice to also write into the Microsoft Excel file.
 
@@ -225,7 +225,9 @@ In this task, you create a process within Power Automate for desktop that writes
 >A different invoice ID might display in your version.
     
 
-Task 2: Use AI Builder within Power Automate (optional)
+Task 2:
+-------
+Use AI Builder within Power Automate (optional)
 -----------------------------------------------------
 
 >:information_source:**Note**
@@ -284,7 +286,9 @@ To begin this task, start by having the **Power Automate Desktop app** open to t
     
 ![Screenshot showing the Run flow button.](images/8-38.png)
     
-Task 3: Advanced Power Automate Desktop features
+Task 3:
+-------
+Advanced Power Automate Desktop features
 ===================================================
 
 In this task, you use the web automation to convert the total amount into another currency and then add the new conversion to the Excel document.
