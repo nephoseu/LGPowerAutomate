@@ -33,7 +33,7 @@ This lab guides you through the following steps:
 
 
 >:information_source:**Note**
->To complete the labs, you'll need to use a few files. Download the [Automation in a Day files](https://aka.ms/AutomationIADStudent) for use in this lab. Extract the contents of this download to your local computer.
+>To complete the labs, you'll need to use a few files. Download the [Lab files](https://github.com/nephoseu/LGPowerAutomate/raw/main/LabData.zip) for use in this lab. Extract the contents of this download to your local computer.
 ----
 
 Task 0: Get Power Apps Developer Plan
