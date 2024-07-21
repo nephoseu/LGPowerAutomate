@@ -1,3 +1,8 @@
+---
+lab:
+    title: '[Lab 06] Add an AI model to process invoice forms'
+    module: 'Power Automate'
+---
 # LAB 6 - Add an AI model to process invoice forms
 
 Prerequisites
