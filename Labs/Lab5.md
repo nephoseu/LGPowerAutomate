@@ -1,3 +1,8 @@
+---
+lab:
+    title: '[Lab 05] Use Outlook to trigger desktop flows and pass inputs'
+    module: 'Power Automate'
+---
 # LAB 5 - Use Outlook to trigger desktop flows and pass inputs
 
 Prerequisites
