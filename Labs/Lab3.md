@@ -1,3 +1,8 @@
+---
+lab:
+    title: '[Lab 03] Use input and output variables'
+    module: 'Power Automate'
+---
 # LAB 3 - Use input and output variables
 
     
