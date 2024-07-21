@@ -1,3 +1,8 @@
+---
+lab:
+    title: '[Lab 04] Integrate with cloud flows'
+    module: 'Power Automate'
+---
 # LAB 4 - Integrate with cloud flows
 
 Prerequisites
