@@ -16,6 +16,22 @@ The requirements for this lab are as follows:
     
 *   Microsoft Exchange mailbox
 
+Accessing your Virtual Machine (VM)
+-----------------------------------
+
+If you don't have the local admin access to install Contoso app on your machine, you are going to need to use a preprovisioned VM.
+
+1. Go to Windows search bar and type **RDP**
+![Screenshot of the searching for RDP.](images/0-01.png)
+
+2. Open Remote Desktop app, and in computer name, type an IP adrress assgined to you.
+![Screenshot of the adding IP address to RDP.](images/0-02.png)
+
+3. Once added, click on connect and a window that will ask you for credentials will pop-up. Type in the following credentials and click connect:
+- username: student
+- password: lgPassword1!
+![Screenshot of the adding credentials to RDP.](images/0-03.png)
+
 Introduction
 ------------
 This lab guides you through the following steps:
