@@ -71,8 +71,7 @@ To import the solution, follow these steps:
     ![Screenshot of the Apply changes pop-up window.](images/5-05.png)
     
 10.  Select the connection that you created and then select **Import**.
-    
-    ![Screenshot of the Import a solution dialog.](images/5-06.png)
+![Screenshot of the Import a solution dialog.](images/5-06.png)
     
 11.  Wait for the solution to be imported.
     
@@ -116,7 +115,7 @@ In this task, you'll use an Outlook email to trigger a desktop flow and pass inp
     
 9.  Search for `Desktop flow` in the search bar and then select **Run a flow built with Power Automate for desktop**.
     
-    ![Screenshot of the Run a flow built with Power Automate Desktop flow action.](images/5-12.png)
+![Screenshot of the Run a flow built with Power Automate Desktop flow action.](images/5-12.png)
     
 10.  Select **Enter an invoice** from the **Desktop flow** dropdown menu and then select **Attended** from the **Run Mode** dropdown menu.
     
